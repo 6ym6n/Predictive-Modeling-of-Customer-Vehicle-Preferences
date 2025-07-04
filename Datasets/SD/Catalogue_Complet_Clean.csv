@@ -1,0 +1,271 @@
+marque,nom,puissance,longueur,nbPlaces,nbPortes,couleur,occasion,prix
+Volvo,S80 T6,272,4,5,5,blanc,FALSE,50500
+Volvo,S80 T6,272,4,5,5,noir,FALSE,50500
+Volvo,S80 T6,272,4,5,5,rouge,FALSE,50500
+Volvo,S80 T6,272,4,5,5,gris,TRUE,35350
+Volvo,S80 T6,272,4,5,5,bleu,TRUE,35350
+Volvo,S80 T6,272,4,5,5,gris,FALSE,50500
+Volvo,S80 T6,272,4,5,5,bleu,FALSE,50500
+Volvo,S80 T6,272,4,5,5,rouge,TRUE,35350
+Volvo,S80 T6,272,4,5,5,blanc,TRUE,35350
+Volvo,S80 T6,272,4,5,5,noir,TRUE,35350
+Volkswagen,Touran 2.0 FSI,150,3,7,5,rouge,FALSE,27340
+Volkswagen,Touran 2.0 FSI,150,3,7,5,gris,TRUE,19138
+Volkswagen,Touran 2.0 FSI,150,3,7,5,bleu,TRUE,19138
+Volkswagen,Touran 2.0 FSI,150,3,7,5,gris,FALSE,27340
+Volkswagen,Touran 2.0 FSI,150,3,7,5,bleu,FALSE,27340
+Volkswagen,Touran 2.0 FSI,150,3,7,5,blanc,TRUE,19138
+Volkswagen,Touran 2.0 FSI,150,3,7,5,noir,TRUE,19138
+Volkswagen,Touran 2.0 FSI,150,3,7,5,rouge,TRUE,19138
+Volkswagen,Touran 2.0 FSI,150,3,7,5,blanc,FALSE,27340
+Volkswagen,Touran 2.0 FSI,150,3,7,5,noir,FALSE,27340
+Volkswagen,Polo 1.2 6V,55,1,5,3,blanc,TRUE,8540
+Volkswagen,Polo 1.2 6V,55,1,5,3,blanc,FALSE,12200
+Volkswagen,Polo 1.2 6V,55,1,5,3,noir,FALSE,12200
+Volkswagen,Polo 1.2 6V,55,1,5,3,noir,TRUE,8540
+Volkswagen,Polo 1.2 6V,55,1,5,3,bleu,TRUE,8540
+Volkswagen,Polo 1.2 6V,55,1,5,3,bleu,FALSE,12200
+Volkswagen,Polo 1.2 6V,55,1,5,3,rouge,TRUE,8540
+Volkswagen,Polo 1.2 6V,55,1,5,3,rouge,FALSE,12200
+Volkswagen,Polo 1.2 6V,55,1,5,3,gris,FALSE,12200
+Volkswagen,Polo 1.2 6V,55,1,5,3,gris,TRUE,8540
+Volkswagen,New Beatle 1.8,110,2,5,5,blanc,TRUE,18641
+Volkswagen,New Beatle 1.8,110,2,5,5,noir,TRUE,18641
+Volkswagen,New Beatle 1.8,110,2,5,5,rouge,TRUE,18641
+Volkswagen,New Beatle 1.8,110,2,5,5,gris,TRUE,18641
+Volkswagen,New Beatle 1.8,110,2,5,5,bleu,TRUE,18641
+Volkswagen,New Beatle 1.8,110,2,5,5,rouge,FALSE,26630
+Volkswagen,New Beatle 1.8,110,2,5,5,gris,FALSE,26630
+Volkswagen,New Beatle 1.8,110,2,5,5,bleu,FALSE,26630
+Volkswagen,New Beatle 1.8,110,2,5,5,blanc,FALSE,26630
+Volkswagen,New Beatle 1.8,110,2,5,5,noir,FALSE,26630
+Volkswagen,Golf 2.0 FSI,150,2,5,5,rouge,TRUE,16029
+Volkswagen,Golf 2.0 FSI,150,2,5,5,gris,TRUE,16029
+Volkswagen,Golf 2.0 FSI,150,2,5,5,bleu,TRUE,16029
+Volkswagen,Golf 2.0 FSI,150,2,5,5,blanc,TRUE,16029
+Volkswagen,Golf 2.0 FSI,150,2,5,5,noir,TRUE,16029
+Volkswagen,Golf 2.0 FSI,150,2,5,5,blanc,FALSE,22900
+Volkswagen,Golf 2.0 FSI,150,2,5,5,noir,FALSE,22900
+Volkswagen,Golf 2.0 FSI,150,2,5,5,bleu,FALSE,22900
+Volkswagen,Golf 2.0 FSI,150,2,5,5,rouge,FALSE,22900
+Volkswagen,Golf 2.0 FSI,150,2,5,5,gris,FALSE,22900
+Skoda,Superb 2.8 V6,193,4,5,5,rouge,FALSE,31790
+Skoda,Superb 2.8 V6,193,4,5,5,gris,FALSE,31790
+Skoda,Superb 2.8 V6,193,4,5,5,bleu,FALSE,31790
+Skoda,Superb 2.8 V6,193,4,5,5,noir,FALSE,31790
+Skoda,Superb 2.8 V6,193,4,5,5,blanc,FALSE,31790
+Seat,Toledo 1.6,102,3,5,5,blanc,FALSE,18880
+Seat,Toledo 1.6,102,3,5,5,noir,FALSE,18880
+Seat,Toledo 1.6,102,3,5,5,rouge,FALSE,18880
+Seat,Toledo 1.6,102,3,5,5,gris,FALSE,18880
+Seat,Toledo 1.6,102,3,5,5,bleu,FALSE,18880
+Saab,9.3 1.8T,150,3,5,5,blanc,TRUE,27020
+Saab,9.3 1.8T,150,3,5,5,rouge,TRUE,27020
+Saab,9.3 1.8T,150,3,5,5,gris,TRUE,27020
+Saab,9.3 1.8T,150,3,5,5,bleu,TRUE,27020
+Saab,9.3 1.8T,150,3,5,5,noir,TRUE,27020
+Saab,9.3 1.8T,150,3,5,5,gris,FALSE,38600
+Saab,9.3 1.8T,150,3,5,5,bleu,FALSE,38600
+Saab,9.3 1.8T,150,3,5,5,noir,FALSE,38600
+Saab,9.3 1.8T,150,3,5,5,rouge,FALSE,38600
+Saab,9.3 1.8T,150,3,5,5,blanc,FALSE,38600
+Renault,Vel Satis 3.5 V6,245,4,5,5,gris,TRUE,34440
+Renault,Vel Satis 3.5 V6,245,4,5,5,noir,TRUE,34440
+Renault,Vel Satis 3.5 V6,245,4,5,5,bleu,TRUE,34440
+Renault,Vel Satis 3.5 V6,245,4,5,5,rouge,TRUE,34440
+Renault,Vel Satis 3.5 V6,245,4,5,5,blanc,TRUE,34440
+Renault,Vel Satis 3.5 V6,245,4,5,5,gris,FALSE,49200
+Renault,Vel Satis 3.5 V6,245,4,5,5,bleu,FALSE,49200
+Renault,Vel Satis 3.5 V6,245,4,5,5,blanc,FALSE,49200
+Renault,Vel Satis 3.5 V6,245,4,5,5,noir,FALSE,49200
+Renault,Vel Satis 3.5 V6,245,4,5,5,rouge,FALSE,49200
+Renault,Megane 2.0 16V,135,2,5,5,gris,TRUE,15644
+Renault,Megane 2.0 16V,135,2,5,5,bleu,TRUE,15644
+Renault,Megane 2.0 16V,135,2,5,5,rouge,TRUE,15644
+Renault,Megane 2.0 16V,135,2,5,5,blanc,TRUE,15644
+Renault,Megane 2.0 16V,135,2,5,5,noir,TRUE,15644
+Renault,Megane 2.0 16V,135,2,5,5,gris,FALSE,22350
+Renault,Megane 2.0 16V,135,2,5,5,bleu,FALSE,22350
+Renault,Megane 2.0 16V,135,2,5,5,blanc,FALSE,22350
+Renault,Megane 2.0 16V,135,2,5,5,noir,FALSE,22350
+Renault,Megane 2.0 16V,135,2,5,5,rouge,FALSE,22350
+Renault,Laguna 2.0T,170,3,5,5,rouge,TRUE,19110
+Renault,Laguna 2.0T,170,3,5,5,gris,TRUE,19110
+Renault,Laguna 2.0T,170,3,5,5,bleu,TRUE,19110
+Renault,Laguna 2.0T,170,3,5,5,blanc,TRUE,19110
+Renault,Laguna 2.0T,170,3,5,5,noir,TRUE,19110
+Renault,Laguna 2.0T,170,3,5,5,gris,FALSE,27300
+Renault,Laguna 2.0T,170,3,5,5,bleu,FALSE,27300
+Renault,Laguna 2.0T,170,3,5,5,rouge,FALSE,27300
+Renault,Laguna 2.0T,170,3,5,5,noir,FALSE,27300
+Renault,Laguna 2.0T,170,3,5,5,blanc,FALSE,27300
+Renault,Espace 2.0T,165,3,7,5,gris,TRUE,21245
+Renault,Espace 2.0T,165,3,7,5,bleu,TRUE,21245
+Renault,Espace 2.0T,165,3,7,5,noir,TRUE,21245
+Renault,Espace 2.0T,165,3,7,5,rouge,TRUE,21245
+Renault,Espace 2.0T,165,3,7,5,blanc,TRUE,21245
+Renault,Espace 2.0T,165,3,7,5,noir,FALSE,30350
+Renault,Espace 2.0T,165,3,7,5,bleu,FALSE,30350
+Renault,Espace 2.0T,165,3,7,5,rouge,FALSE,30350
+Renault,Espace 2.0T,165,3,7,5,blanc,FALSE,30350
+Renault,Espace 2.0T,165,3,7,5,gris,FALSE,30350
+Peugeot,1007 1.4,75,1,5,5,rouge,TRUE,9625
+Peugeot,1007 1.4,75,1,5,5,noir,FALSE,13750
+Peugeot,1007 1.4,75,1,5,5,gris,FALSE,13750
+Peugeot,1007 1.4,75,1,5,5,blanc,TRUE,9625
+Peugeot,1007 1.4,75,1,5,5,rouge,FALSE,13750
+Peugeot,1007 1.4,75,1,5,5,gris,TRUE,9625
+Peugeot,1007 1.4,75,1,5,5,blanc,FALSE,13750
+Peugeot,1007 1.4,75,1,5,5,bleu,TRUE,9625
+Peugeot,1007 1.4,75,1,5,5,noir,TRUE,9625
+Peugeot,1007 1.4,75,1,5,5,bleu,FALSE,13750
+Nissan,Primera 1.6,109,3,5,5,noir,FALSE,18650
+Nissan,Primera 1.6,109,3,5,5,bleu,FALSE,18650
+Nissan,Primera 1.6,109,3,5,5,rouge,FALSE,18650
+Nissan,Primera 1.6,109,3,5,5,gris,FALSE,18650
+Nissan,Primera 1.6,109,3,5,5,blanc,FALSE,18650
+Nissan,Maxima 3.0 V6,200,4,5,5,noir,FALSE,30000
+Nissan,Maxima 3.0 V6,200,4,5,5,gris,FALSE,30000
+Nissan,Maxima 3.0 V6,200,4,5,5,bleu,FALSE,30000
+Nissan,Maxima 3.0 V6,200,4,5,5,rouge,FALSE,30000
+Nissan,Maxima 3.0 V6,200,4,5,5,blanc,FALSE,30000
+Nissan,Almera 1.8,115,2,5,5,gris,FALSE,16450
+Nissan,Almera 1.8,115,2,5,5,bleu,FALSE,16450
+Nissan,Almera 1.8,115,2,5,5,noir,FALSE,16450
+Nissan,Almera 1.8,115,2,5,5,rouge,FALSE,16450
+Nissan,Almera 1.8,115,2,5,5,blanc,FALSE,16450
+Mini,Copper 1.6 16V,115,1,5,5,gris,TRUE,12740
+Mini,Copper 1.6 16V,115,1,5,5,bleu,TRUE,12740
+Mini,Copper 1.6 16V,115,1,5,5,rouge,TRUE,12740
+Mini,Copper 1.6 16V,115,1,5,5,noir,TRUE,12740
+Mini,Copper 1.6 16V,115,1,5,5,blanc,TRUE,12740
+Mini,Copper 1.6 16V,115,1,5,5,gris,FALSE,18200
+Mini,Copper 1.6 16V,115,1,5,5,bleu,FALSE,18200
+Mini,Copper 1.6 16V,115,1,5,5,rouge,FALSE,18200
+Mini,Copper 1.6 16V,115,1,5,5,noir,FALSE,18200
+Mini,Copper 1.6 16V,115,1,5,5,blanc,FALSE,18200
+Mercedes,S500,306,4,5,5,noir,TRUE,70910
+Mercedes,S500,306,4,5,5,bleu,TRUE,70910
+Mercedes,S500,306,4,5,5,rouge,TRUE,70910
+Mercedes,S500,306,4,5,5,blanc,TRUE,70910
+Mercedes,S500,306,4,5,5,bleu,FALSE,101300
+Mercedes,S500,306,4,5,5,gris,TRUE,70910
+Mercedes,S500,306,4,5,5,noir,FALSE,101300
+Mercedes,S500,306,4,5,5,blanc,FALSE,101300
+Mercedes,S500,306,4,5,5,rouge,FALSE,101300
+Mercedes,S500,306,4,5,5,gris,FALSE,101300
+Mercedes,A200,136,2,5,5,blanc,FALSE,25900
+Mercedes,A200,136,2,5,5,noir,FALSE,25900
+Mercedes,A200,136,2,5,5,blanc,TRUE,18130
+Mercedes,A200,136,2,5,5,rouge,TRUE,18130
+Mercedes,A200,136,2,5,5,noir,TRUE,18130
+Mercedes,A200,136,2,5,5,rouge,FALSE,25900
+Mercedes,A200,136,2,5,5,bleu,TRUE,18130
+Mercedes,A200,136,2,5,5,gris,TRUE,18130
+Mercedes,A200,136,2,5,5,gris,FALSE,25900
+Mercedes,A200,136,2,5,5,bleu,FALSE,25900
+Lancia,Ypsilon 1.4 16V,90,1,5,3,rouge,FALSE,13500
+Lancia,Ypsilon 1.4 16V,90,1,5,3,bleu,TRUE,9450
+Lancia,Ypsilon 1.4 16V,90,1,5,3,gris,FALSE,13500
+Lancia,Ypsilon 1.4 16V,90,1,5,3,bleu,FALSE,13500
+Lancia,Ypsilon 1.4 16V,90,1,5,3,noir,FALSE,13500
+Lancia,Ypsilon 1.4 16V,90,1,5,3,rouge,TRUE,9450
+Lancia,Ypsilon 1.4 16V,90,1,5,3,gris,TRUE,9450
+Lancia,Ypsilon 1.4 16V,90,1,5,3,blanc,FALSE,13500
+Lancia,Ypsilon 1.4 16V,90,1,5,3,blanc,TRUE,9450
+Lancia,Ypsilon 1.4 16V,90,1,5,3,noir,TRUE,9450
+Kia,Picanto 1.1,65,1,5,5,blanc,FALSE,8990
+Kia,Picanto 1.1,65,1,5,5,gris,FALSE,8990
+Kia,Picanto 1.1,65,1,5,5,noir,FALSE,8990
+Kia,Picanto 1.1,65,1,5,5,rouge,FALSE,8990
+Kia,Picanto 1.1,65,1,5,5,bleu,FALSE,8990
+Jaguar,X-Type 2.5 V6,197,3,5,5,gris,FALSE,37100
+Jaguar,X-Type 2.5 V6,197,3,5,5,blanc,TRUE,25970
+Jaguar,X-Type 2.5 V6,197,3,5,5,rouge,TRUE,25970
+Jaguar,X-Type 2.5 V6,197,3,5,5,rouge,FALSE,37100
+Jaguar,X-Type 2.5 V6,197,3,5,5,bleu,TRUE,25970
+Jaguar,X-Type 2.5 V6,197,3,5,5,gris,TRUE,25970
+Jaguar,X-Type 2.5 V6,197,3,5,5,noir,TRUE,25970
+Jaguar,X-Type 2.5 V6,197,3,5,5,noir,FALSE,37100
+Jaguar,X-Type 2.5 V6,197,3,5,5,blanc,FALSE,37100
+Jaguar,X-Type 2.5 V6,197,3,5,5,bleu,FALSE,37100
+Hyundaï,Matrix 1.6,103,3,7,5,bleu,FALSE,15960
+Hyundaï,Matrix 1.6,103,3,7,5,blanc,FALSE,15960
+Hyundaï,Matrix 1.6,103,3,7,5,gris,FALSE,15960
+Hyundaï,Matrix 1.6,103,3,7,5,noir,FALSE,15960
+Hyundaï,Matrix 1.6,103,3,7,5,rouge,FALSE,15960
+Honda,FR-V 1.7,125,3,7,5,noir,FALSE,19550
+Honda,FR-V 1.7,125,3,7,5,bleu,FALSE,19550
+Honda,FR-V 1.7,125,3,7,5,gris,FALSE,19550
+Honda,FR-V 1.7,125,3,7,5,blanc,FALSE,19550
+Honda,FR-V 1.7,125,3,7,5,rouge,FALSE,19550
+Ford,Mondeo 1.8,125,3,5,5,blanc,TRUE,16730
+Ford,Mondeo 1.8,125,3,5,5,gris,TRUE,16730
+Ford,Mondeo 1.8,125,3,5,5,bleu,TRUE,16730
+Ford,Mondeo 1.8,125,3,5,5,noir,TRUE,16730
+Ford,Mondeo 1.8,125,3,5,5,rouge,TRUE,16730
+Ford,Mondeo 1.8,125,3,5,5,bleu,FALSE,23900
+Ford,Mondeo 1.8,125,3,5,5,blanc,FALSE,23900
+Ford,Mondeo 1.8,125,3,5,5,noir,FALSE,23900
+Ford,Mondeo 1.8,125,3,5,5,gris,FALSE,23900
+Ford,Mondeo 1.8,125,3,5,5,rouge,FALSE,23900
+Fiat,Croma 2.2,147,3,5,5,blanc,TRUE,17346
+Fiat,Croma 2.2,147,3,5,5,bleu,TRUE,17346
+Fiat,Croma 2.2,147,3,5,5,rouge,TRUE,17346
+Fiat,Croma 2.2,147,3,5,5,gris,TRUE,17346
+Fiat,Croma 2.2,147,3,5,5,rouge,FALSE,24780
+Fiat,Croma 2.2,147,3,5,5,bleu,FALSE,24780
+Fiat,Croma 2.2,147,3,5,5,noir,TRUE,17346
+Fiat,Croma 2.2,147,3,5,5,blanc,FALSE,24780
+Fiat,Croma 2.2,147,3,5,5,noir,FALSE,24780
+Fiat,Croma 2.2,147,3,5,5,gris,FALSE,24780
+Daihatsu,Cuore 1.0,58,1,5,3,noir,FALSE,8850
+Daihatsu,Cuore 1.0,58,1,5,3,blanc,FALSE,8850
+Daihatsu,Cuore 1.0,58,1,5,3,rouge,FALSE,8850
+Daihatsu,Cuore 1.0,58,1,5,3,bleu,FALSE,8850
+Daihatsu,Cuore 1.0,58,1,5,3,gris,FALSE,8850
+Dacia,Logan 1.6 MPI,90,2,5,5,blanc,FALSE,7500
+Dacia,Logan 1.6 MPI,90,2,5,5,rouge,FALSE,7500
+Dacia,Logan 1.6 MPI,90,2,5,5,noir,FALSE,7500
+Dacia,Logan 1.6 MPI,90,2,5,5,gris,FALSE,7500
+Dacia,Logan 1.6 MPI,90,2,5,5,bleu,FALSE,7500
+BMW,M5,507,4,5,5,bleu,TRUE,66360
+BMW,M5,507,4,5,5,gris,FALSE,94800
+BMW,M5,507,4,5,5,blanc,FALSE,94800
+BMW,M5,507,4,5,5,noir,FALSE,94800
+BMW,M5,507,4,5,5,rouge,TRUE,66360
+BMW,M5,507,4,5,5,blanc,TRUE,66360
+BMW,M5,507,4,5,5,bleu,FALSE,94800
+BMW,M5,507,4,5,5,gris,TRUE,66360
+BMW,M5,507,4,5,5,rouge,FALSE,94800
+BMW,M5,507,4,5,5,noir,TRUE,66360
+BMW,120i,150,2,5,5,rouge,TRUE,25060
+BMW,120i,150,2,5,5,bleu,FALSE,35800
+BMW,120i,150,2,5,5,blanc,FALSE,35800
+BMW,120i,150,2,5,5,gris,FALSE,35800
+BMW,120i,150,2,5,5,rouge,FALSE,35800
+BMW,120i,150,2,5,5,bleu,TRUE,25060
+BMW,120i,150,2,5,5,gris,TRUE,25060
+BMW,120i,150,2,5,5,noir,TRUE,25060
+BMW,120i,150,2,5,5,blanc,TRUE,25060
+BMW,120i,150,2,5,5,noir,FALSE,35800
+Audi,A3 2.0 FSI,150,2,5,5,noir,TRUE,19950
+Audi,A3 2.0 FSI,150,2,5,5,noir,FALSE,28500
+Audi,A3 2.0 FSI,150,2,5,5,rouge,FALSE,28500
+Audi,A3 2.0 FSI,150,2,5,5,gris,TRUE,19950
+Audi,A3 2.0 FSI,150,2,5,5,blanc,FALSE,28500
+Audi,A3 2.0 FSI,150,2,5,5,blanc,TRUE,19950
+Audi,A3 2.0 FSI,150,2,5,5,bleu,TRUE,19950
+Audi,A3 2.0 FSI,150,2,5,5,bleu,FALSE,28500
+Audi,A3 2.0 FSI,150,2,5,5,gris,FALSE,28500
+Audi,A3 2.0 FSI,150,2,5,5,rouge,TRUE,19950
+Audi,A2 1.4,75,1,5,5,noir,TRUE,12817
+Audi,A2 1.4,75,1,5,5,bleu,FALSE,18310
+Audi,A2 1.4,75,1,5,5,gris,FALSE,18310
+Audi,A2 1.4,75,1,5,5,bleu,TRUE,12817
+Audi,A2 1.4,75,1,5,5,gris,TRUE,12817
+Audi,A2 1.4,75,1,5,5,noir,FALSE,18310
+Audi,A2 1.4,75,1,5,5,rouge,FALSE,18310
+Audi,A2 1.4,75,1,5,5,blanc,TRUE,12817
+Audi,A2 1.4,75,1,5,5,rouge,TRUE,12817
+Audi,A2 1.4,75,1,5,5,blanc,FALSE,18310

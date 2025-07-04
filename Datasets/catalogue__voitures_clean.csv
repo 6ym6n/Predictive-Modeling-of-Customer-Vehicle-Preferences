@@ -1,0 +1,29 @@
+marque,nom,puissance,longueur,nbPlaces,nbPortes
+Volvo,S80 T6,272,4,5,5
+Volkswagen,Polo 1.2 6V,55,1,5,3
+Volkswagen,New Beatle 1.8,110,2,5,5
+Volkswagen,Golf 2.0 FSI,150,2,5,5
+Skoda,Superb 2.8 V6,193,4,5,5
+Seat,Toledo 1.6,102,3,5,5
+Saab,9.3 1.8T,150,3,5,5
+Renault,Vel Satis 3.5 V6,245,4,5,5
+Renault,Megane 2.0 16V,135,2,5,5
+Renault,Laguna 2.0T,170,3,5,5
+Peugeot,1007 1.4,75,1,5,5
+Nissan,Primera 1.6,109,3,5,5
+Nissan,Maxima 3.0 V6,200,4,5,5
+Nissan,Almera 1.8,115,2,5,5
+Mini,Copper 1.6 16V,115,1,5,5
+Mercedes,S500,306,4,5,5
+Mercedes,A200,136,2,5,5
+Lancia,Ypsilon 1.4 16V,90,1,5,3
+Kia,Picanto 1.1,65,1,5,5
+Jaguar,X-Type 2.5 V6,197,3,5,5
+Ford,Mondeo 1.8,125,3,5,5
+Fiat,Croma 2.2,147,3,5,5
+Daihatsu,Cuore 1.0,58,1,5,3
+Dacia,Logan 1.6 MPI,90,2,5,5
+BMW,M5,507,4,5,5
+BMW,120i,150,2,5,5
+Audi,A3 2.0 FSI,150,2,5,5
+Audi,A2 1.4,75,1,5,5

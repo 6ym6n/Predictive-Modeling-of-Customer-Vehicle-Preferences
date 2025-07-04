@@ -1,0 +1,29 @@
+marque,nom,puissance,longueur,nbPlaces,nbPortes,cluster,categorie
+Volvo,S80 T6,272,4,5,5,0,Familiales Puissantes
+Volkswagen,Polo 1.2 6V,55,1,5,3,2,Petites Citadines
+Volkswagen,New Beatle 1.8,110,2,5,5,1,Compactes Polyvalentes
+Volkswagen,Golf 2.0 FSI,150,2,5,5,1,Compactes Polyvalentes
+Skoda,Superb 2.8 V6,193,4,5,5,0,Familiales Puissantes
+Seat,Toledo 1.6,102,3,5,5,3,Compactes Dynamiques
+Saab,9.3 1.8T,150,3,5,5,3,Compactes Dynamiques
+Renault,Vel Satis 3.5 V6,245,4,5,5,0,Familiales Puissantes
+Renault,Megane 2.0 16V,135,2,5,5,1,Compactes Polyvalentes
+Renault,Laguna 2.0T,170,3,5,5,3,Compactes Dynamiques
+Peugeot,1007 1.4,75,1,5,5,2,Petites Citadines
+Nissan,Primera 1.6,109,3,5,5,3,Compactes Dynamiques
+Nissan,Maxima 3.0 V6,200,4,5,5,0,Familiales Puissantes
+Nissan,Almera 1.8,115,2,5,5,1,Compactes Polyvalentes
+Mini,Copper 1.6 16V,115,1,5,5,2,Petites Citadines
+Mercedes,S500,306,4,5,5,0,Familiales Puissantes
+Mercedes,A200,136,2,5,5,1,Compactes Polyvalentes
+Lancia,Ypsilon 1.4 16V,90,1,5,3,2,Petites Citadines
+Kia,Picanto 1.1,65,1,5,5,2,Petites Citadines
+Jaguar,X-Type 2.5 V6,197,3,5,5,3,Compactes Dynamiques
+Ford,Mondeo 1.8,125,3,5,5,3,Compactes Dynamiques
+Fiat,Croma 2.2,147,3,5,5,3,Compactes Dynamiques
+Daihatsu,Cuore 1.0,58,1,5,3,2,Petites Citadines
+Dacia,Logan 1.6 MPI,90,2,5,5,1,Compactes Polyvalentes
+BMW,M5,507,4,5,5,0,Familiales Puissantes
+BMW,120i,150,2,5,5,1,Compactes Polyvalentes
+Audi,A3 2.0 FSI,150,2,5,5,1,Compactes Polyvalentes
+Audi,A2 1.4,75,1,5,5,2,Petites Citadines

@@ -92,9 +92,11 @@ Lance directement l'application via Tkinter :
 python app_prediction.py
 ```
 ![image](https://github.com/user-attachments/assets/ebdb4cf7-7c17-4a07-9f9b-a6b3c9010334)
+
 Figure – Interface de l’application Tkinter pour la prédiction de catégorie
 
 ![image](https://github.com/user-attachments/assets/e6ecdbe4-d80f-4bb7-bda1-2d46ee2bc32e)
+
 Figure – Interface de l’application Tkinter pour la prédiction de catégorie
 
 
